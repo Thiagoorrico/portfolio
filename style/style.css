@@ -27,7 +27,8 @@ nav {
   font-size: 35px;
   letter-spacing: 2px;
   cursor: pointer;
-  margin-left: 1em;
+  padding-top: 10px;
+  padding-left: 10px;
 }
 
 span {
